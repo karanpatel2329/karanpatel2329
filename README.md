@@ -17,7 +17,4 @@ I am glad you come to my profile.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpatel2329&layout=compact" />
 </a>
-```
-![Kar github stats](https://github-readme-stats.vercel.app/api?username=karanpatel2329&show_icons=true)
-```
 
