@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there Nerds, I am [Karan](https://karanpatel.netlify.app) ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
-<!--
-**karanpatel2329/karanpatel2329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am glad you come to my profile.
 
-Here are some ideas to get you started:
+- ![internship](https://github.githubassets.com/images/icons/emoji/unicode/1f575.png?v8) I’m searching for internships to gain experience and strengthen my skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) I’m currently working on some personal projects
+- ![zap](https://github.githubassets.com/images/icons/emoji/unicode/26a1.png) Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
+- ![diamond](https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png?v8) I have a blogging site , which can be found at my [Blogger Tree](https://www.thebloggertree.in/)
+- ![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png) Reach me at **[karanpatel2329@gmail.com](mailto:karanpatel2329@gmail.com)**
+
+```
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karanpatel2329&show_icons=true)
+```
+
