@@ -1,14 +1,23 @@
-### Hello there Nerds, I am [Karan](https://karanpatel.netlify.app)!(https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
-
+### Hello there Nerds, I am [Karan](https://karanpatel.netlify.app) 👋
 I am glad you come to my profile.
 
-- (https://github.githubassets.com/images/icons/emoji/unicode/1f575.png?v8) I’m searching for internships to gain experience and strengthen my skills. 
+🔭 I’m searching for internships to gain experience and strengthen my skills. 
 
-- (https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8) I’m currently working on some personal projects
-- ![zap](https://github.githubassets.com/images/icons/emoji/unicode/26a1.png) Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
-- ![diamond](https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png?v8) I have a blogging site , which can be found at my [Blogger Tree](https://www.thebloggertree.in/)
-- ![mailbox](https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png) Reach me at **[karanpatel2329@gmail.com](mailto:karanpatel2329@gmail.com)**
+🌱 I’m currently working on some personal projects
+⚡ Fun fact: I can speak 3 languages. Besides that, I speak Javascript, Python, and Java!!
+💎 I have a blogging site , which can be found at my [Blogger Tree](https://www.thebloggertree.in/)
+📫 Reach me at **[karanpatel2329@gmail.com](mailto:karanpatel2329@gmail.com)**
 
-(https://github-readme-stats.vercel.app/api?username=karanpatel2329&show_icons=true)
 
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.karanpatel2329.vercel.app/api?username=karanpatel2329&count_private=true&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.karanpatel2329.vercel.app/api/top-langs/?username=karanpatel2329&layout=compact" />
+</a>
+```
+![Kar github stats](https://github-readme-stats.vercel.app/api?username=karanpatel2329&show_icons=true)
+```
 
