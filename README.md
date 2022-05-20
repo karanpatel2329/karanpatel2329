@@ -1,4 +1,4 @@
-### Hello there Nerds, I am [Karan] Flutter | MERN Developer (https://karanpatel.netlify.app) 👋
+### Hello there Nerds, I am [Karan](https://karanpatel.netlify.app) Flutter | MERN Developer  👋
 I am glad you come to my profile.
 
 🔭 I’m searching for freelancing projects to use my skill and help people. 
